@@ -1,0 +1,21 @@
+body{ background-color: rgb(15, 13, 104);}
+
+.heading
+{
+    color:rgb(247, 244, 248);
+}
+
+.heading1
+{
+    color:rgb(12, 247, 110); font-size: 28px;
+}
+
+.para
+{
+    font-size: 18px; color: forestgreen;
+}
+
+.para1
+{
+    color: rgb(224, 218, 222); font-size: 19px;
+}
